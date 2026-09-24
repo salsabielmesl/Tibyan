@@ -1,0 +1,12 @@
+runtime: php83
+
+env: standard
+
+entrypoint: serve index.php
+
+env_variables:
+  CI_ENV: production
+
+  handlers:
+  - url: /.*
+    script: auto
