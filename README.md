@@ -1,3 +1,10 @@
+## 🔒 Copyright & Terms of Use
+
+© 2026 Salsabiel Meslmani. All rights reserved.
+
+This repository is made publicly available strictly for portfolio, evaluation, and code-review purposes. 
+No permission is granted to copy, modify, host, or distribute any portion of this codebase or its contents without explicit written consent.
+
 # 🩺 Tibyan — Smart Healthcare Platform
 
 > Senior Capstone Project | Beirut Arab University
